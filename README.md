@@ -1,2 +1,4 @@
 # US_Reproductive_Health_Outcome
-A cleaning exercise and regression analysis on STATA for  natality outcome using a large (>6 GB) csv dataset
+Exploratory analysis of natality outcome using big data (10 million+ observation) of birth records from 2013 to 2015.
+
+
